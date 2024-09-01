@@ -1,6 +1,9 @@
 # AIBA
 > 청각장애인에게 새 귀를 달다.
 
+![디스플레이 FHD_깃허브](https://github.com/user-attachments/assets/aa0d9f47-f92d-4917-87d8-3a8a18128e1a)
+
+
 | Code    | Repository    |
 | :---:   | :---:         |
 | 👀 Vision - Depth Map (Monocular Depth Estimation) | [Link](https://github.com/team-ruku/aiba-vision) |
