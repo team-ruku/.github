@@ -10,9 +10,9 @@
 | 🎯 Central Backend - NestJS | [Link](https://github.com/team-ruku/aiba-central-backend) |
 
 ## 🏆 Awards
-- 제5회 한국코드페어 SW공모전 - 금상
-- 제7회 벤처창업 아이템 경진대회 - 대상
-- 2023년 소셜벤처 경연대회 - 우수상
+- 제5회 한국코드페어 SW공모전 금상 (과학기술정보통신부 장관상)
+- 제7회 벤처창업 아이템 경진대회 대상 (중소벤처기업부 장관상)
+- 2023년 소셜벤처 경연대회 우수상
 
 
 
@@ -25,4 +25,4 @@
 | ✋ Sign Language Recognition via WLASL | [Link](https://github.com/team-ruku/hearbridge-slr) |
 
 ## 🏆 Awards
-- 2024 ISEF - Finalist
+- 2024 ISEF Finalist (KOR001, TECA011T)
