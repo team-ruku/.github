@@ -1,22 +1,15 @@
 # AIBA
-> 청각장애인에게 새 귀를 달다
+> 청각장애인에게 새 귀를 달다.
 
-### 👀 Vision - Depth Map
-https://github.com/team-ruku/aiba-vision
+| Code    | Repository    |
+| :---:   | :---:         |
+| 👀 Vision - Depth Map (Monocular Depth Estimation) | [Link](https://github.com/team-ruku/aiba-vision) |
+| 👂 Sound - TDoA (Time Difference of Arrival) | [Link](https://github.com/team-ruku/aiba-sound) 
+| 📱 App - React Native | [Link](https://github.com/team-ruku/aiba-app) |
+| 📷 Jetson Backend - FastAPI | [Link](https://github.com/team-ruku/aiba-jetson-backend) |
+| 🎯 Central Backend - NestJS | [Link](https://github.com/team-ruku/aiba-central-backend) |
 
-### 👂 Sound - Time Difference of Arrival
-https://github.com/team-ruku/aiba-sound
-
-### 📱 App - React Native
-https://github.com/team-ruku/aiba-app
-
-### 🎯 Central Backend - NestJS
-https://github.com/team-ruku/aiba-central-backend
-
-### 📷 Jetson Backend - FastAPI
-https://github.com/team-ruku/aiba-jetson-backend
-
-### 🏆 Awards
+## 🏆 Awards
 - 제5회 한국코드페어 SW공모전 - 금상
 - 제7회 벤처창업 아이템 경진대회 - 대상
 - 2023년 소셜벤처 경연대회 - 우수상
@@ -26,11 +19,10 @@ https://github.com/team-ruku/aiba-jetson-backend
 # HearBridge
 > AR Headset for Interactive Communication for the Hearing Impaired
 
-### 👄 Visual Speech Recognition
-https://github.com/team-ruku/hearbridge-vsr
+| Code    | Repository    |
+| :---:   | :---:         |
+| 👄 Visual Speech Recognition via Lip Reading | [Link](https://github.com/team-ruku/hearbridge-vsr) |
+| ✋ Sign Language Recognition via WLASL | [Link](https://github.com/team-ruku/hearbridge-slr) |
 
-### ✋ Sign Language Recognition
-https://github.com/team-ruku/hearbridge-slr
-
-### 🏆 Awards
+## 🏆 Awards
 - 2024 ISEF - Finalist
